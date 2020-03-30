@@ -1,0 +1,25 @@
+.CardSize{
+  display: flex;
+  width:300px;
+  height: 350px;
+  margin: 30px;
+}
+
+.color{
+  color: aqua;
+}
+
+
+.size{
+  display: flex;
+  flex-wrap: wrap;
+  width: 20px;
+
+}
+
+.position{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
